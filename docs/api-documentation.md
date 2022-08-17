@@ -1,5 +1,7 @@
 # API documentation
 
+Hello world
+
 {% hint style="warning" %}
 For Airbyte Open-Source you don't need the API Token for Authentication!
 All endpoints are possible to access using the API without it. **Note**: Airbyte Cloud does not currently support API access. 
