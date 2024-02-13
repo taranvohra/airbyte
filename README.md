@@ -5,7 +5,7 @@
 ![](.gitbook/assets/airbyte\_new\_logo.svg)
 
 **Data i**<mark style="color:purple;">**ntegration**</mark>\*\* made simple, secure and extensible.\*\*\
-The **new** <mark style="background-color:red;">open-source</mark> standard to sync **data** from **applications**, **APIs** & databases to warehouses, lakes & other destinations.
+The **new** <mark style="background-color:red;">open-source</mark> standard to sync **data** from **applications**, **APIs** & databases to warehouses, lakes & other destinations>>>
 
 [![](.gitbook/assets/deploy\_locally.svg)](deploying-airbyte/local-deployment.md) [![](.gitbook/assets/deploy\_on\_aws.svg)](deploying-airbyte/on-aws-ec2.md) [![](.gitbook/assets/deploy\_on\_gcp.svg)](deploying-airbyte/on-gcp-compute-engine.md) [![](.gitbook/assets/deploy\_on\_k8s.svg)](deploying-airbyte/on-kubernetes.md)
 
