@@ -11,7 +11,7 @@ The **new** <mark style="background-color:red;">open-source</mark> standard to s
 
 ![](.gitbook/assets/airbyte-ui-for-your-integration-pipelines.png)
 
-Airbyte is on a mission to make data integration pipelines a commodity.
+Airbyte is on a mission to make data integration pipelines a commodity??
 
 <details>
 
