@@ -75,7 +75,7 @@ For general help using Airbyte, please refer to the official Airbyte documentati
 
 ## Roadmap
 
-Check out our [roadmap](project-overview/roadmap.md) to get informed on what we are currently working on, and what we have in mind for the next weeks, months and years.
+Check out our [roadmap](project-overview/roadmap.md) to get informed on what we are currently working on, and what we have in mind for the next weeks, months and years.????z
 
 ## License
 
