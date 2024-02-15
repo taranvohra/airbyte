@@ -56,7 +56,7 @@ Here is a [step-by-step guide](https://github.com/airbytehq/airbyte/tree/e378d40
 
 ## Contributing
 
-We love contributions to Airbyte, big or small.
+We love contributions to Airbyte, big or small!!!!
 
 See our [Contributing guide](contributing-to-airbyte/) on how to get started. Not sure where to start? We’ve listed some [good first issues](https://github.com/airbytehq/airbyte/labels/good%20first%20issue) to start with. If you have any questions, please open a draft PR or visit our [slack channel](https://github.com/airbytehq/airbyte/tree/a9b1c6c0420550ad5069aca66c295223e0d05e27/slack.airbyte.io) where the core team can help answer your questions.
 
@@ -75,7 +75,7 @@ For general help using Airbyte, please refer to the official Airbyte documentati
 
 ## Roadmap
 
-Check out our [roadmap](project-overview/roadmap.md) to get informed on what we are currently working on, and what we have in mind for the next weeks, months and years>>>>>
+Check out our [roadmap](project-overview/roadmap.md) to get informed on what we are currently working on, and what we have in mind for the next weeks, months and years.
 
 ## License
 
