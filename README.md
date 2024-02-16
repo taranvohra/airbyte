@@ -79,4 +79,4 @@ Check out our [roadmap](project-overview/roadmap.md) to get informed on what we 
 
 ## License
 
-See the [LICENSE](project-overview/licenses/) file for licensing information, and our [FAQ](project-overview/licenses/license-faq.md) for any questions you may have on that topic))))))))
+See the [LICENSE](project-overview/licenses/) file for licensing information, and our [FAQ](project-overview/licenses/license-faq.md) for any questions you may have on that topic))))))))======
