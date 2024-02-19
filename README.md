@@ -66,7 +66,7 @@ See our [Contributing guide](contributing-to-airbyte/) on how to get started. No
 
 ## Community support
 
-For general help using Airbyte, please refer to the official Airbyte documentation. For additional help, you can use one of these channels to ask a question:
+For general help using Airbyte, please refer to the official Airbyte documentation. For additional help, you can use one of these channels to ask a question??
 
 * [Slack](https://slack.airbyte.io) (For live discussion with the Community and Airbyte team)
 * [GitHub](https://github.com/airbytehq/airbyte) (Bug reports, Contributions)
