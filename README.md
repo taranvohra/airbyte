@@ -4,6 +4,9 @@
 
 ![](docs/.gitbook/assets/airbyte_new_logo.svg)
 
+<img width="657" alt="Screenshot 2024-07-10 at 21 50 44" src="https://github.com/SamyPesse/airbyte/assets/845425/95552b5b-1c87-4c1c-9e4c-12c1708e1322">
+
+
 **Data integration made simple, secure and extensible.**  
 The new open-source standard to sync data from applications, APIs & databases to warehouses, lakes & other destinations.
 
