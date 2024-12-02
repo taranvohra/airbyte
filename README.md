@@ -2,24 +2,24 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social\&label=Star\&maxAge=2592000)](https://github.com/airbytehq/airbyte/stargazers/) [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/airbytehq/airbyte/Airbyte%20CI)](https://github.com/airbytehq/airbyte/actions/workflows/gradle.yml) [![License](https://img.shields.io/static/v1?label=license\&message=MIT\&color=brightgreen)](https://github.com/airbytehq/airbyte/tree/a9b1c6c0420550ad5069aca66c295223e0d05e27/LICENSE/README.md) [![License](https://img.shields.io/static/v1?label=license\&message=ELv2\&color=brightgreen)](https://github.com/airbytehq/airbyte/tree/a9b1c6c0420550ad5069aca66c295223e0d05e27/LICENSE/README.md)
 
-![](docs/.gitbook/assets/airbyte\_new\_logo.svg)
+![](docs/.gitbook/assets/airbyte_new_logo.svg)
 
 ![Screenshot 2024-07-10 at 21 50 44](https://github.com/SamyPesse/airbyte/assets/845425/95552b5b-1c87-4c1c-9e4c-12c1708e1322)
 
 **Data integration made simple, secure and extensible.**\
-The new **open-source** standard to sync data from applications, **APIs** & databases to warehouses, lakes & other destinations.
+The new **open-source** standard to sync data from applications, **APIs** & databases to warehouses, lakes & other **destinations**.
 
 $$
 e = mc^2
 $$
 
 $$
-f(x) = x * e^{2 pi i \xi x}
+\lim\limits_{x \to \infty} \exp(-x) = 0
 $$
 
+Airbyte is an open-source platform that simplifies and secures the integration of data from various sources to destinations like warehouses and lakes.
 
-
-[![](docs/.gitbook/assets/deploy\_locally.svg)](docs/deploying-airbyte/local-deployment.md) [![](docs/.gitbook/assets/deploy\_on\_aws.svg)](docs/deploying-airbyte/on-aws-ec2.md) [![](docs/.gitbook/assets/deploy\_on\_gcp.svg)](docs/deploying-airbyte/on-gcp-compute-engine.md) [![](docs/.gitbook/assets/deploy\_on\_k8s.svg)](docs/deploying-airbyte/on-kubernetes.md)
+[![](docs/.gitbook/assets/deploy_locally.svg)](docs/deploying-airbyte/local-deployment.md) [![](docs/.gitbook/assets/deploy_on_aws.svg)](docs/deploying-airbyte/on-aws-ec2.md) [![](docs/.gitbook/assets/deploy_on_gcp.svg)](docs/deploying-airbyte/on-gcp-compute-engine.md) [![](docs/.gitbook/assets/deploy_on_k8s.svg)](docs/deploying-airbyte/on-kubernetes.md)
 
 ![](docs/.gitbook/assets/airbyte-ui-for-your-integration-pipelines.png)
 
