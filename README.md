@@ -17,7 +17,7 @@ $$
 \lim\limits_{x \to \infty} \exp(-x) = 0
 $$
 
-Airbyte is an open-source platform that simplifies and secures the integration of data from various sources to destinations like warehouses and lakes.
+"In the grand tapestry of data's vast expanse, where chaos oft doth reign supreme, Airbyte emerges—a beacon of harmony and elegant chance. From diverse sources to destinations bold, it fashions pathways, weaving stories untold. With the open-source spirit, it doth dance, uniting realms of APIs and databases into a seamless trance. In your own cloud kingdom, sovereignty you maintain, with connectors that adapt, needing not the heavy chain. Airbyte, the enchanter of data's stream, turns integration's toil into a dream."
 
 [![](docs/.gitbook/assets/deploy_locally.svg)](docs/deploying-airbyte/local-deployment.md) [![](docs/.gitbook/assets/deploy_on_aws.svg)](docs/deploying-airbyte/on-aws-ec2.md) [![](docs/.gitbook/assets/deploy_on_gcp.svg)](docs/deploying-airbyte/on-gcp-compute-engine.md) [![](docs/.gitbook/assets/deploy_on_k8s.svg)](docs/deploying-airbyte/on-kubernetes.md)
 
