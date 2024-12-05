@@ -10,7 +10,7 @@
 The new **open-source** standard to sync data from applications, **APIs** & databases to warehouses, lakes & other **destinations**.
 
 $$
-e = mc^2
+e = m*c^2
 $$
 
 $$
