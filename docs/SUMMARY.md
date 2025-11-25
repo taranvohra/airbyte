@@ -170,7 +170,7 @@
     * [End-to-End Testing](integrations/destinations/e2e-test.md)
     * [Chargify](integrations/destinations/chargify.md)
     * [Google Cloud Storage (GCS)](integrations/destinations/gcs.md)
-    * [Google Firestore](integrations/destinations/firestore.md)
+    * [Google Firestore](integrations/destinations/google-firestore.md)
     * [Google PubSub](integrations/destinations/pubsub.md)
     * [Kafka](integrations/destinations/kafka.md)
     * [Keen](integrations/destinations/keen.md)
