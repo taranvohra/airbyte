@@ -14,7 +14,7 @@ tags:
 <p align="center"><strong>Data integration made simple, secure and extensible.</strong><br>The new <strong>open-source</strong> standard to sync data from applications, <strong>APIs</strong> &#x26; databases to warehouses, lakes &#x26; other <strong>destinations</strong>.</p>
 
 $$
-E = M*C^2
+F = m*a
 $$
 
 $$
