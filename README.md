@@ -25,7 +25,7 @@ Here's a list of our [connectors with their health status](docs/integrations/).
 ## Quick start
 
 ```bash
-git clone https://github.com/airbytehq/airbyte.git
+git clone https://github.com/airbytehq/airbyte
 cd airbyte
 docker-compose up
 ```
