@@ -2,7 +2,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social\&label=Star\&maxAge=2592000)](https://github.com/airbytehq/airbyte/stargazers/) [![GitHub Workflow Status](https://img.shields.io/github/workflow/status/airbytehq/airbyte/Airbyte%20CI)](https://github.com/airbytehq/airbyte/actions/workflows/gradle.yml) [![License](https://img.shields.io/static/v1?label=license\&message=MIT\&color=brightgreen)](https://github.com/airbytehq/airbyte/tree/a9b1c6c0420550ad5069aca66c295223e0d05e27/LICENSE/README.md) [![License](https://img.shields.io/static/v1?label=license\&message=ELv2\&color=brightgreen)](https://github.com/airbytehq/airbyte/tree/a9b1c6c0420550ad5069aca66c295223e0d05e27/LICENSE/README.md)
 
-![](.gitbook/assets/airbyte_new_logo.svg)
+<div data-with-frame="true"><img src=".gitbook/assets/airbyte_new_logo.svg" alt=""></div>
 
 **Data integration made simple, secure and extensible.**\
 The new open-source standard to sync data from applications, APIs & databases to warehouses, lakes & other destinations.
