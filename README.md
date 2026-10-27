@@ -1,6 +1,6 @@
 ---
 tags:
-  - introduction
+  - intr0
 ---
 
 # Introduction
